@@ -1,0 +1,19 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/txtFilter"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="@string/currency" />
+
+    <ListView
+        android:id="@+id/listRates"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

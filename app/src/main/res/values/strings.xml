@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyRates</string>
+    <string name="currency">Enter currency code (USD)</string>
+</resources>
